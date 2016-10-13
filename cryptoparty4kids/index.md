@@ -6,6 +6,35 @@ modified: 2015-09-10T19:44:38.564948-04:00
 ---
 
 
+Cryptoparty4Kids @ Hack.lu: let’s secure the treasure as quickly as possible!
+-----------------------------------------------------------------------------
+ 
+Here is the plot: help us secure the treasure before Hack.lu’s mascot gets robbed!
+ 
+In order to prevent the robbery, we will show your child how to secure a treasure with sensors and robots. The most important: He/She will be the one programming them. 
+ 
+The next Cryptoparty4Kids will take place on next Tuesday 18th October, 2016 from 4.30 PM to 6 PM at the Hack.lu conference dedicated to information security, which will be organized at the Alvisse Parc Hôtel, located in Luxembourg-Dommeldange.
+ 
+The Cryptoparty4Kids event, in relation to the BEE SECURE national initiative, helps children understand information and communication technologies.
+ 
+Since Hack.lu is an international conference, Cryptoparty4Kids will be given in English. This event is for children aged from 7 to 12 years old. No particular skills or previous experiences are required.
+ 
+The number of seats is limited (12), register your children as soon as possible!
+ 
+This project is co-financed by the European Commission and is taking place in the framework of  the European Cybersecurity Month (ECSM) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 CryptoParty4Kids
 ----------------
 
